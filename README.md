@@ -14,7 +14,6 @@ Apprendre Power BI pas à pas pour devenir **autonome et experte** en 8 semaines
 
 📘 **À faire :**
 
-- Regarde une vidéo d’introduction : *“What is Power BI?”* (YouTube – chaîne Microsoft Power BI)
 - Télécharge et installe **Power BI Desktop** (gratuit sur le site Microsoft)
 - Explore l’interface : rubans, vues, zones de travail.
 
