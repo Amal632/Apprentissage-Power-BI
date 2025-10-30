@@ -14,13 +14,13 @@ Apprendre Power BI pas à pas pour devenir **autonome et experte** en 8 semaines
 
 📘 **À faire :**
 
-- Télécharge et installe **Power BI Desktop** (gratuit sur le site Microsoft)
+- Télécharger et installer **Power BI Desktop** 
 - Explore l’interface : rubans, vues, zones de travail.
 
 💪 **Exercice :**
 
 - Importer un petit fichier Excel (ventes, notes d’étudiants…)
-- Créer ton premier **graphique simple** (barres ou camembert)
+- Créer mon premier **graphique simple** (barres ou camembert)
 - --
 
 ### 🧹 Semaine 2 : Nettoyer et transformer les données
@@ -32,11 +32,11 @@ Apprendre Power BI pas à pas pour devenir **autonome et experte** en 8 semaines
 - Découvrir l’onglet **“Transformer les données”**
 - Apprendre à :
 
-- Supprimer les lignes vides
+  Supprimer les lignes vides
 
-- Changer les types de colonnes (texte, nombre, date)
+  Changer les types de colonnes (texte, nombre, date)
 
-- Fusionner deux tables
+  Fusionner deux tables
 
 💪 **Exercice :**
 
@@ -49,8 +49,8 @@ Apprendre Power BI pas à pas pour devenir **autonome et experte** en 8 semaines
 
 📘 **À faire :**
 
-- Découvre le **modèle de données**
-- Crée des **relations** (ex : Ventes → Produits → Clients)
+- Découvrir le **modèle de données**
+- Créer des **relations** (ex : Ventes → Produits → Clients)
 
 💪 **Exercice :**
 
@@ -63,31 +63,31 @@ Apprendre Power BI pas à pas pour devenir **autonome et experte** en 8 semaines
 
 📘 **À faire :**
 
-- Apprends les notions de **Mesure** et **Colonne calculée**
+- Apprendre les notions de **Mesure** et **Colonne calculée**
 - Formules de base :
 
-- `SUM()`, `AVERAGE()`, `COUNTROWS()`
+ `SUM()`, `AVERAGE()`, `COUNTROWS()`
 
-- `CALCULATE()`, `FILTER()` (progressivement)
+ `CALCULATE()`, `FILTER()` (progressivement)
 
 💪 **Exercice :**
 
-- Crée une mesure “Total des ventes” et “Moyenne des ventes”
+- Créer une mesure “Total des ventes” et “Moyenne des ventes”
 - --
 
 ### 🎨 Semaine 5 : Créer des visualisations impactantes
 
-- *🎯 Objectif :** construire ton premier **rapport professionnel**.
+- *🎯 Objectif :** construire mon premier **rapport professionnel**.
 
 📘 **À faire :**
 
-- Découvre les visuels (barres, lignes, cartes, jauges, matrices…)
-- Utilise les **segments (filtres interactifs)**
-- Personnalise les couleurs et titres
+- Découvrir les visuels (barres, lignes, cartes, jauges, matrices…)
+- Utiliser les **segments (filtres interactifs)**
+- Personnaliser les couleurs et titres
 
 💪 **Exercice :**
 
-- Crée un **tableau de bord de ventes** interactif
+- Créer un **tableau de bord de ventes** interactif
 - --
 
 ### 🌍 Semaine 6 : Publier et partager
@@ -96,9 +96,9 @@ Apprendre Power BI pas à pas pour devenir **autonome et experte** en 8 semaines
 
 📘 **À faire :**
 
-- Crée un compte **Power BI Service**
-- Publie ton rapport depuis Power BI Desktop
-- Découvre les options de **partage** et **rafraîchissement automatique**
+- Créer un compte **Power BI Service**
+- Publier ton rapport depuis Power BI Desktop
+- Découvrir les options de **partage** et **rafraîchissement automatique**
 - --
 
 ### 🧰 Semaine 7 : Power BI avancé
@@ -112,7 +112,7 @@ Apprendre Power BI pas à pas pour devenir **autonome et experte** en 8 semaines
 
 💪 **Exercice :**
 
-- Crée un **tableau de bord RH, ventes ou finances** selon ton choix
+- Créer un **tableau de bord RH, ventes ou finances** selon ton choix
 - --
 
 ### 🏆 Semaine 8 : Projet final + certification
@@ -121,10 +121,10 @@ Apprendre Power BI pas à pas pour devenir **autonome et experte** en 8 semaines
 
 📘 **À faire :**
 
-- Choisis un thème (ventes, école, entreprise, boutique…)
-- Nettoie les données → crée ton modèle → construis ton tableau de bord → publie-le.
+- Choisir un thème (ventes, école, entreprise, boutique…)
+- Nettoyer les données → créer ton modèle → construire ton tableau de bord 
 
 💪 **Exercice :**
 
-- Crée ton **portfolio Power BI** sur GitHub ou Notion.
-- Découvre la **certification Microsoft PL-300** (niveau expert).
+- Créer mon **portfolio Power BI** sur GitHub et Notion.
+- Découvrir la **certification Microsoft PL-300** (niveau expert).
