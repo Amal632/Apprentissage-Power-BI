@@ -15,7 +15,7 @@ Apprendre Power BI pas à pas pour devenir **autonome et experte** en 8 semaines
 📘 **À faire :**
 
 - Télécharger et installer **Power BI Desktop** 
-- Explore l’interface : rubans, vues, zones de travail.
+- Explorer l’interface : rubans, vues, zones de travail.
 
 💪 **Exercice :**
 
